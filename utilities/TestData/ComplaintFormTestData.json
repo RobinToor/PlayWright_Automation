@@ -1,0 +1,13 @@
+[
+    {
+        "fullName" : "Tester",
+        "email" : "Tester@email.com",
+        "itemCategory" : "Dining Room Furniture",
+        "itemName" : "Buffet",
+        "dateOfPurchase" : "12/12/2022",
+        "purchasePrice" : "1500",
+        "issueWithItem" : "Door broken",
+        "textArea" : "Left door broken while opening",
+        "agreedTnC" :true
+    }
+]
